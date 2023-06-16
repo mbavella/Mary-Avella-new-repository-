@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+import pandas as pd
+df = pd.DataFrame(columns={'1,2,3'})
+print(df)
+
+          
